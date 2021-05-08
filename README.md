@@ -1,4 +1,4 @@
-# Product Name
+# InShop ecommerce website
 > Inshop Ecommerce website using react and django
 
 
@@ -28,16 +28,10 @@ conda activate env name
 
 
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
+Describe how to install all development dependencies and virtual environment setup
 dependencies for frontend:
 
 ```sh
@@ -91,16 +85,14 @@ BHARATHA KUMAR  – bharatha24kumar@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/bharath2408/react-ecommerce-website](https://github.com/bharath2408/react-ecommerce-website)
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/bharath2480/react-ecommerce-website/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-
-[wiki]: https://github.com/yourname/yourproject/wiki
