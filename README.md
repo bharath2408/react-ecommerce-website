@@ -20,6 +20,7 @@ Windows:
 npx create-react-app [Project Name]
 
 > Here we are using Anaconda virtual enviranment
+
 conda create -n env name python=version
 
 conda activate env name
@@ -35,6 +36,8 @@ conda activate env name
 Describe how to install all development dependencies and virtual environment setup
 
 dependencies for frontend:
+
+![React-bootstarp](https://react-bootstrap.github.io/)
 
 ```sh
    "dependencies": {
