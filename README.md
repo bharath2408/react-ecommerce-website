@@ -37,7 +37,7 @@ Describe how to install all development dependencies and virtual environment set
 
 dependencies for frontend:
 
-![React-bootstarp](https://react-bootstrap.github.io/)
+-[React-bootstarp](https://react-bootstrap.github.io/)
 
 ```sh
    "dependencies": {
