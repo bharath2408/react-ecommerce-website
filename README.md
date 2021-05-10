@@ -4,8 +4,8 @@
 
 
 Hi! here iam created ecommerce website using react.js, django web framework and django restframework. In this project
-i used django for a backend. Django restframework used to convert the backend to api format. In frontend i used react.js for
-webpage design and redux for state management and user authentication i use jwt token authentication.
+I used django for a backend. Django restframework used to convert the backend to api format. In frontend I used react.js for
+webpage design and redux for state management and user authentication I use jwt token authentication.
 
 ## Inshop Ecommerce
 ![](inshop.png)
@@ -14,21 +14,22 @@ webpage design and redux for state management and user authentication i use jwt 
 
 Windows:
 
-```sh
-> For creating React app
 
+> For creating [React](https://reactjs.org/) app
+
+```sh
 npx create-react-app [Project Name]
 
-> Here we are using Anaconda virtual enviranment
+```
 
+> Here we are using [Anaconda](https://www.anaconda.com/) virtual enviranment
+
+```sh
 conda create -n env name python=version
 
 conda activate env name
 
 ```
-
-
-
 
 
 ## Development setup
@@ -37,7 +38,20 @@ Describe how to install all development dependencies and virtual environment set
 
 dependencies for frontend:
 
-[React-bootstarp](https://react-bootstrap.github.io/)
+- Check out the [React-bootstarp](https://react-bootstrap.github.io/)
+- Check out the [Axios](https://www.npmjs.com/package/axios)
+- Check out the [React-bootstrap-validation](https://www.npmjs.com/package/react-bootstrap-validation)
+- Check out the [React-paypal-button-v2](https://www.npmjs.com/package/react-paypal-button-v2)
+- Check out the [React-redux](https://react-redux.js.org/)
+- Check out the [React-router-bootstrap](https://www.npmjs.com/package/react-router-bootstrap)
+- Check out the [React-devtools-extensions](https://www.npmjs.com/package/react-devtools)
+- Check out the [Redux-thunk](https://www.npmjs.com/package/redux-thunk)
+- Check out the [Redux](https://redux.js.org/)
+- Check out the [React-bootstarp](https://react-bootstrap.github.io/)
+
+After we installed the above dependencies check the package.json file wheather the dependencies are installed
+
+### Packages
 
 ```sh
    "dependencies": {
@@ -64,18 +78,16 @@ dependencies for frontend:
 Requriements for Django:
 
 ```sh
-    asgiref==3.3.4
-    certifi==2020.12.5
-    Django==3.1.4
-    django-cors-headers==3.6.0
-    djangorestframework==3.12.2
-    djangorestframework-simplejwt==4.6.0
-    Pillow==8.0.1
-    PyJWT==2.0.1
-    pytz==2021.1
-    sqlparse==0.4.1
-    typing-extensions==3.7.4.3
-    wincertstore==0.2
+    pip install Django==3.1.4
+    pip install django-cors-headers==3.6.0
+    pip install djangorestframework==3.12.2
+    pip install djangorestframework-simplejwt==4.6.0
+    pip install Pillow==8.0.1
+    pip install PyJWT==2.0.1
+    pip install pytz==2021.1
+    pip install sqlparse==0.4.1
+    pip install typing-extensions==3.7.4.3
+    pip install wincertstore==0.2
 ```
 
 Runtime version:
