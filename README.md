@@ -36,8 +36,16 @@ conda activate env name
 Describe how to install all development dependencies and virtual environment setup
 
 dependencies for frontend:
-
-..*[React-bootstarp](https://react-bootstrap.github.io/)
+<html>
+<head></head>
+<body>
+<ol>
+<li>
+ [React-bootstarp](https://react-bootstrap.github.io/)
+</li>
+</ol>
+</body>
+</html>
 
 ```sh
    "dependencies": {
